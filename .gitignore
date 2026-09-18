@@ -1,4 +1,9 @@
 node_modules
 .env
+.env.*
 dist
 build
+
+# Documentation files (not for new DevOps repo)
+OnBoard.md
+technical_development_document_onboard.md
